@@ -1,4 +1,4 @@
-lass Main{
+class Main{
   public static void main(String args[]){
     Cat c1 = new Cat( "Persian", 2, "white-brown");
     
