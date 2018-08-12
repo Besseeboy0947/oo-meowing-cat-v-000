@@ -1,3 +1,10 @@
+def new_cat
+  cat_name 
+
+
+
+
+
 require_relative 'spec_helper'
 require_relative '../lib/meowing_cat'
 
