@@ -16,3 +16,4 @@ class Main{
     System.out.println(c2.color);
     c2.sleeping();
   }
+end
