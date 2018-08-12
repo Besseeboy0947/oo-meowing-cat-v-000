@@ -5,7 +5,7 @@ def new_cat
 
 
 
-require_relative 'spec_helper'
+require
 require_relative '../lib/meowing_cat'
 
 describe "Cat" do
