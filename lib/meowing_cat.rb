@@ -1,4 +1,6 @@
-
+def name
+    @name
+  end
 
 
 
