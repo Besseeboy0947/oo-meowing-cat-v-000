@@ -3,9 +3,7 @@
 #   maru:name
 #   end
 
-def
-cat.new
-end
+def 
 
 
 
