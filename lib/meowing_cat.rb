@@ -1,7 +1,7 @@
-def cat_name 
-  maru.name
-  maru:name
-  end
+# def cat_name 
+#   maru.name
+#   maru:name
+#   end
 
 def
 cat.new
