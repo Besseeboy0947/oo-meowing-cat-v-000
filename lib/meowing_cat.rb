@@ -1,5 +1,6 @@
-def name
-    @name
+def cat_name 
+  maru.name
+  maru:name
   end
 
 
