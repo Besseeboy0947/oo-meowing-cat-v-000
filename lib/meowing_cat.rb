@@ -3,6 +3,9 @@ def cat_name
   maru:name
   end
 
+def
+cat.new
+end
 
 
 
